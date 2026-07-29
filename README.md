@@ -42,15 +42,15 @@ It helps analyze sales performance across:
 
 ### Main Dashboard
 
-![Dashboard](Screenshots/Main Dashboard.png)
+![Dashboard](Main Dashboard.png)
 
 ### Product Details
 
-![Product Details](Screenshots/products-details.png)
+![Product Details](products-details.png)
 
 ### Sales Analysis
 
-![Sales Analysis](Screenshots/sales-analysis.png)
+![Sales Analysis](sales-analysis.png)
 
 ---
 
