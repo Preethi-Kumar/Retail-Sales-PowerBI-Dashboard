@@ -42,7 +42,7 @@ It helps analyze sales performance across:
 
 ### Main Dashboard
 
-![Dashboard](Main Dashboard.png)
+![Dashboard](Main-Dashboard.png)
 
 ### Product Details
 
