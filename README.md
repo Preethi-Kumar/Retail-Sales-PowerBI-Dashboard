@@ -40,7 +40,11 @@ It helps analyze sales performance across:
 
 ## Dashboard Preview
 
-### Main Dashboard
+### Main Dashboard Dark Theme
+
+![Dashboard](retail-dashboard-dark-theme.png)
+
+### Main Dashboard Light Theme
 
 ![Dashboard](Main-Dashboard.png)
 
